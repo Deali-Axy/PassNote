@@ -24,4 +24,6 @@ When you first use it, please create a new password so that it will save your ac
 
 ## Release
 
-[(点击下载)Click to Download](http://cloud.deali.cn/fileStore/update/PassNote.rar)
+点击下面链接下载体验：
+
+[Click to Download](http://cloud.deali.cn/fileStore/update/PassNote.rar)
